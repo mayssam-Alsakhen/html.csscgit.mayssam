@@ -10,12 +10,12 @@ font-weight: bold;
 }
 .message--unread{
 border-left: blue;
-
+border-width: 5px;
 }
 .message__time--old{
     opacity: 0;
 }
 
 .message{
-    line-height:  10px;
+    line-height:  50px;
 }
