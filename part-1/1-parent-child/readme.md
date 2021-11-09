@@ -7,7 +7,7 @@ There are two messages in this example. The time that the message was sent is di
 
 ```shell
 git add .
-git commit -m "Completed 1-parent-child exercise"
+git commit -m "Completed 1-parent-ccomhild exercise"
 git push
 ```
 
