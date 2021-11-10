@@ -3,3 +3,13 @@
 }
 
 /* Add your own CSS code below */
+.countries--first .country--barazil{
+  order: 5;
+}
+.countries--first .country--croatia{
+  order: 1;
+}
+.countries--second .country--croatia{
+  order: 1;
+}
+
