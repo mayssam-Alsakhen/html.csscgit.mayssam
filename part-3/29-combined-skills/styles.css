@@ -5,7 +5,7 @@
 @media (min-width:992px){
     
        .hero__title{
-           font-size: larger;
+           font-size: 70px;
        }
 }
 
@@ -42,9 +42,10 @@ justify-content: space-evenly;
         margin-left: auto;
     }
 }
-.main-article{
+.site-content{
+display: flex;
     max-width: 50em;
-justify-content: center;
-align-items: center;
+    justify-content: center;
+
 line-height: 30px;
 }
