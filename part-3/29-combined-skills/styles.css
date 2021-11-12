@@ -1,1 +1,16 @@
 /* Add your own CSS code below */
+.heart{
+    color:#c85308;
+}
+@media (min-width:992px){
+    
+       .hero__title{
+           width: 400px;
+       }
+}
+
+.main-nav__list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
