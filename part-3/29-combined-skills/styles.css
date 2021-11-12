@@ -35,8 +35,16 @@ justify-content: space-evenly;
     .main-nav__list-item{
         margin-left: 10%;
     }
-    .view a {
+    .views a {
         margin-left: 25px;
     }
-    
+    .views .views__all{
+        margin-left: auto;
+    }
+}
+.main-article{
+    max-width: 50em;
+justify-content: center;
+align-items: center;
+line-height: 30px;
 }
